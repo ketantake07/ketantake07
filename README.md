@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ketantake07, I am techie and programming enthusiasist, ready to accept new challenges and solve the critical problems using technology.
 - 👀 I’m interested in learning, studying new technologies, contribute.
-- 💡 I have skills in Java, python and currently learning so many new stuff in front end/full stack development space.
+- 💡 I have skills in AWS, Devops, python and currently learning so many new stuff in front end/full stack development space.
 - 🌱 I’m currently learning ReactJs, nodejs and web development utilities. Stay tuned, some of my sample project coming up on github soon.
 - 💞️ I’m looking to collaborate on hackthon, programming challenges, collaborations and team up to resolve critical issues.
 - 📫 How to reach me -
